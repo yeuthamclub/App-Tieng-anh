@@ -1,0 +1,1336 @@
+{
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Âm cuối /t/ /d/ /k/",
+   "goal": "Không nuốt âm cuối: người nghe hiểu nhờ âm cuối.",
+   "sounds": [
+    {
+     "ipa": "/t/ /d/ cuối từ",
+     "tip": "Đặt lưỡi chạm chân răng trên và bật nhẹ ra. 'eight' khác 'A' chỉ nhờ /t/ cuối.",
+     "pairs": [
+      [
+       "eight",
+       "A"
+      ],
+      [
+       "need",
+       "knee"
+      ],
+      [
+       "white",
+       "why"
+      ],
+      [
+       "bed",
+       "bet"
+      ]
+     ]
+    },
+    {
+     "ipa": "/k/ cuối từ",
+     "tip": "Cuống lưỡi chạm vòm họng rồi bật. 'like' phải nghe được /k/ cuối.",
+     "pairs": [
+      [
+       "like",
+       "lie"
+      ],
+      [
+       "back",
+       "bag"
+      ],
+      [
+       "pick",
+       "pig"
+      ]
+     ]
+    }
+   ],
+   "words": [
+    {
+     "en": "one",
+     "vi": "một"
+    },
+    {
+     "en": "two",
+     "vi": "hai"
+    },
+    {
+     "en": "three",
+     "vi": "ba"
+    },
+    {
+     "en": "four",
+     "vi": "bốn"
+    },
+    {
+     "en": "five",
+     "vi": "năm"
+    },
+    {
+     "en": "six",
+     "vi": "sáu"
+    },
+    {
+     "en": "seven",
+     "vi": "bảy"
+    },
+    {
+     "en": "eight",
+     "vi": "tám"
+    },
+    {
+     "en": "nine",
+     "vi": "chín"
+    },
+    {
+     "en": "ten",
+     "vi": "mười"
+    },
+    {
+     "en": "I",
+     "vi": "tôi"
+    },
+    {
+     "en": "you",
+     "vi": "bạn"
+    },
+    {
+     "en": "he",
+     "vi": "anh ấy"
+    },
+    {
+     "en": "she",
+     "vi": "cô ấy"
+    },
+    {
+     "en": "we",
+     "vi": "chúng tôi"
+    },
+    {
+     "en": "they",
+     "vi": "họ"
+    },
+    {
+     "en": "it",
+     "vi": "nó"
+    },
+    {
+     "en": "work",
+     "vi": "làm việc"
+    },
+    {
+     "en": "need",
+     "vi": "cần"
+    },
+    {
+     "en": "check",
+     "vi": "kiểm tra"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Hello. I am Leo.",
+     "vi": "Xin chào. Tôi là Leo."
+    },
+    {
+     "en": "I need to check it.",
+     "vi": "Tôi cần kiểm tra nó."
+    },
+    {
+     "en": "I work at a lab.",
+     "vi": "Tôi làm việc ở phòng xét nghiệm."
+    }
+   ]
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Âm cuối /s/ /z/",
+   "goal": "Đọc rõ -s ở số nhiều và động từ.",
+   "sounds": [
+    {
+     "ipa": "/s/ cuối",
+     "tip": "Hơi đi qua kẽ răng, nghe như tiếng xì nhẹ.",
+     "pairs": [
+      [
+       "bus",
+       "buzz"
+      ],
+      [
+       "place",
+       "plays"
+      ],
+      [
+       "ice",
+       "eyes"
+      ]
+     ]
+    },
+    {
+     "ipa": "/z/ cuối",
+     "tip": "Giống /s/ nhưng cổ họng rung.",
+     "pairs": [
+      [
+       "his",
+       "hiss"
+      ],
+      [
+       "rise",
+       "rice"
+      ],
+      [
+       "eyes",
+       "ice"
+      ]
+     ]
+    }
+   ],
+   "words": [
+    {
+     "en": "test",
+     "vi": "xét nghiệm"
+    },
+    {
+     "en": "tests",
+     "vi": "các xét nghiệm"
+    },
+    {
+     "en": "sample",
+     "vi": "mẫu"
+    },
+    {
+     "en": "samples",
+     "vi": "các mẫu"
+    },
+    {
+     "en": "result",
+     "vi": "kết quả"
+    },
+    {
+     "en": "results",
+     "vi": "các kết quả"
+    },
+    {
+     "en": "time",
+     "vi": "thời gian"
+    },
+    {
+     "en": "day",
+     "vi": "ngày"
+    },
+    {
+     "en": "week",
+     "vi": "tuần"
+    },
+    {
+     "en": "is",
+     "vi": "là"
+    },
+    {
+     "en": "are",
+     "vi": "là (số nhiều)"
+    },
+    {
+     "en": "has",
+     "vi": "có"
+    },
+    {
+     "en": "have",
+     "vi": "có"
+    },
+    {
+     "en": "this",
+     "vi": "cái này"
+    },
+    {
+     "en": "that",
+     "vi": "cái đó"
+    },
+    {
+     "en": "these",
+     "vi": "những cái này"
+    },
+    {
+     "en": "yes",
+     "vi": "vâng"
+    },
+    {
+     "en": "no",
+     "vi": "không"
+    },
+    {
+     "en": "please",
+     "vi": "làm ơn"
+    },
+    {
+     "en": "thanks",
+     "vi": "cảm ơn"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "These are the samples.",
+     "vi": "Đây là các mẫu."
+    },
+    {
+     "en": "He runs ten tests a day.",
+     "vi": "Anh ấy chạy mười xét nghiệm mỗi ngày."
+    },
+    {
+     "en": "Thanks, that is clear.",
+     "vi": "Cảm ơn, rõ rồi."
+    }
+   ]
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Âm /θ/ và /ð/ (th)",
+   "goal": "Phân biệt th với s, t, d.",
+   "sounds": [
+    {
+     "ipa": "/θ/ (think)",
+     "tip": "Đặt đầu lưỡi giữa hai hàm răng, thổi hơi ra. Không đọc thành 's' hay 't'.",
+     "pairs": [
+      [
+       "think",
+       "sink"
+      ],
+      [
+       "three",
+       "tree"
+      ],
+      [
+       "thank",
+       "tank"
+      ],
+      [
+       "mouth",
+       "mouse"
+      ]
+     ]
+    },
+    {
+     "ipa": "/ð/ (this)",
+     "tip": "Như /θ/ nhưng cổ họng rung. Không đọc thành 'd' hay 'z'.",
+     "pairs": [
+      [
+       "they",
+       "day"
+      ],
+      [
+       "then",
+       "den"
+      ],
+      [
+       "though",
+       "dough"
+      ]
+     ]
+    }
+   ],
+   "words": [
+    {
+     "en": "think",
+     "vi": "nghĩ"
+    },
+    {
+     "en": "thank you",
+     "vi": "cảm ơn"
+    },
+    {
+     "en": "three",
+     "vi": "ba"
+    },
+    {
+     "en": "thirty",
+     "vi": "ba mươi"
+    },
+    {
+     "en": "the",
+     "vi": "(mạo từ)"
+    },
+    {
+     "en": "this",
+     "vi": "này"
+    },
+    {
+     "en": "that",
+     "vi": "đó"
+    },
+    {
+     "en": "there",
+     "vi": "ở đó"
+    },
+    {
+     "en": "they",
+     "vi": "họ"
+    },
+    {
+     "en": "then",
+     "vi": "sau đó"
+    },
+    {
+     "en": "with",
+     "vi": "với"
+    },
+    {
+     "en": "both",
+     "vi": "cả hai"
+    },
+    {
+     "en": "month",
+     "vi": "tháng"
+    },
+    {
+     "en": "other",
+     "vi": "khác"
+    },
+    {
+     "en": "mother",
+     "vi": "mẹ"
+    },
+    {
+     "en": "father",
+     "vi": "bố"
+    },
+    {
+     "en": "thing",
+     "vi": "thứ, việc"
+    },
+    {
+     "en": "everything",
+     "vi": "mọi thứ"
+    },
+    {
+     "en": "nothing",
+     "vi": "không có gì"
+    },
+    {
+     "en": "something",
+     "vi": "cái gì đó"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I think so.",
+     "vi": "Tôi nghĩ vậy."
+    },
+    {
+     "en": "Thank you for the training.",
+     "vi": "Cảm ơn về buổi training."
+    },
+    {
+     "en": "What is this thing?",
+     "vi": "Cái này là gì?"
+    }
+   ]
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Âm /ʃ/ và /s/, /tʃ/",
+   "goal": "Phân biệt sh, s và ch.",
+   "sounds": [
+    {
+     "ipa": "/ʃ/ (she)",
+     "tip": "Môi tròn, đẩy ra trước, hơi xì dài. Khác /s/ (môi dẹt).",
+     "pairs": [
+      [
+       "she",
+       "see"
+      ],
+      [
+       "ship",
+       "sip"
+      ],
+      [
+       "sure",
+       "sore"
+      ],
+      [
+       "shift",
+       "sift"
+      ]
+     ]
+    },
+    {
+     "ipa": "/tʃ/ (check)",
+     "tip": "Bắt đầu như /t/ rồi chuyển sang /ʃ/.",
+     "pairs": [
+      [
+       "chip",
+       "ship"
+      ],
+      [
+       "chair",
+       "share"
+      ],
+      [
+       "watch",
+       "wash"
+      ]
+     ]
+    }
+   ],
+   "words": [
+    {
+     "en": "show",
+     "vi": "chỉ cho xem"
+    },
+    {
+     "en": "should",
+     "vi": "nên"
+    },
+    {
+     "en": "sure",
+     "vi": "chắc chắn"
+    },
+    {
+     "en": "machine",
+     "vi": "máy"
+    },
+    {
+     "en": "station",
+     "vi": "trạm"
+    },
+    {
+     "en": "solution",
+     "vi": "dung dịch"
+    },
+    {
+     "en": "wash",
+     "vi": "rửa"
+    },
+    {
+     "en": "shift",
+     "vi": "ca làm"
+    },
+    {
+     "en": "change",
+     "vi": "thay đổi"
+    },
+    {
+     "en": "check",
+     "vi": "kiểm tra"
+    },
+    {
+     "en": "each",
+     "vi": "mỗi"
+    },
+    {
+     "en": "much",
+     "vi": "nhiều"
+    },
+    {
+     "en": "chart",
+     "vi": "biểu đồ"
+    },
+    {
+     "en": "teacher",
+     "vi": "giáo viên"
+    },
+    {
+     "en": "question",
+     "vi": "câu hỏi"
+    },
+    {
+     "en": "information",
+     "vi": "thông tin"
+    },
+    {
+     "en": "instruction",
+     "vi": "hướng dẫn"
+    },
+    {
+     "en": "finish",
+     "vi": "hoàn thành"
+    },
+    {
+     "en": "English",
+     "vi": "tiếng Anh"
+    },
+    {
+     "en": "special",
+     "vi": "đặc biệt"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Can you show me, please?",
+     "vi": "Bạn chỉ cho tôi được không?"
+    },
+    {
+     "en": "I am not sure.",
+     "vi": "Tôi không chắc."
+    },
+    {
+     "en": "Should I change the solution?",
+     "vi": "Tôi có nên thay dung dịch không?"
+    }
+   ]
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Âm /r/ và /l/",
+   "goal": "Không đọc lẫn r và l, không bỏ l cuối.",
+   "sounds": [
+    {
+     "ipa": "/r/",
+     "tip": "Cong lưỡi lên nhưng không chạm vòm miệng, môi hơi tròn.",
+     "pairs": [
+      [
+       "right",
+       "light"
+      ],
+      [
+       "rock",
+       "lock"
+      ],
+      [
+       "read",
+       "lead"
+      ],
+      [
+       "pray",
+       "play"
+      ]
+     ]
+    },
+    {
+     "ipa": "/l/ cuối từ",
+     "tip": "Đầu lưỡi chạm chân răng trên và giữ. 'cell' không đọc thành 'xe'.",
+     "pairs": [
+      [
+       "feel",
+       "fee"
+      ],
+      [
+       "mile",
+       "my"
+      ],
+      [
+       "bowl",
+       "bow"
+      ]
+     ]
+    }
+   ],
+   "words": [
+    {
+     "en": "read",
+     "vi": "đọc"
+    },
+    {
+     "en": "write",
+     "vi": "viết"
+    },
+    {
+     "en": "rack",
+     "vi": "giá đựng mẫu"
+    },
+    {
+     "en": "reagent",
+     "vi": "hóa chất"
+    },
+    {
+     "en": "run",
+     "vi": "chạy"
+    },
+    {
+     "en": "level",
+     "vi": "mức"
+    },
+    {
+     "en": "low",
+     "vi": "thấp"
+    },
+    {
+     "en": "large",
+     "vi": "lớn"
+    },
+    {
+     "en": "small",
+     "vi": "nhỏ"
+    },
+    {
+     "en": "control",
+     "vi": "kiểm tra chất lượng"
+    },
+    {
+     "en": "calibration",
+     "vi": "hiệu chuẩn"
+    },
+    {
+     "en": "error",
+     "vi": "lỗi"
+    },
+    {
+     "en": "really",
+     "vi": "thật sự"
+    },
+    {
+     "en": "problem",
+     "vi": "vấn đề"
+    },
+    {
+     "en": "repeat",
+     "vi": "nhắc lại"
+    },
+    {
+     "en": "learn",
+     "vi": "học"
+    },
+    {
+     "en": "slowly",
+     "vi": "chậm"
+    },
+    {
+     "en": "clear",
+     "vi": "rõ ràng"
+    },
+    {
+     "en": "all",
+     "vi": "tất cả"
+    },
+    {
+     "en": "full",
+     "vi": "đầy"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Could you repeat that slowly?",
+     "vi": "Bạn nhắc lại chậm được không?"
+    },
+    {
+     "en": "The reagent level is low.",
+     "vi": "Mức hóa chất thấp."
+    },
+    {
+     "en": "I really want to learn.",
+     "vi": "Tôi rất muốn học."
+    }
+   ]
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Nguyên âm /ɪ/ và /iː/, /æ/ và /e/",
+   "goal": "Phân biệt âm ngắn và dài, a bẹt và e.",
+   "sounds": [
+    {
+     "ipa": "/ɪ/ ngắn và /iː/ dài",
+     "tip": "/ɪ/ ngắn, thả lỏng; /iː/ dài, cười nhẹ.",
+     "pairs": [
+      [
+       "ship",
+       "sheep"
+      ],
+      [
+       "live",
+       "leave"
+      ],
+      [
+       "fill",
+       "feel"
+      ],
+      [
+       "sit",
+       "seat"
+      ]
+     ]
+    },
+    {
+     "ipa": "/æ/ và /e/",
+     "tip": "/æ/ mở miệng rộng, hạ hàm; /e/ mở vừa.",
+     "pairs": [
+      [
+       "bad",
+       "bed"
+      ],
+      [
+       "man",
+       "men"
+      ],
+      [
+       "had",
+       "head"
+      ],
+      [
+       "sat",
+       "set"
+      ]
+     ]
+    }
+   ],
+   "words": [
+    {
+     "en": "this",
+     "vi": "này"
+    },
+    {
+     "en": "these",
+     "vi": "những cái này"
+    },
+    {
+     "en": "is",
+     "vi": "là"
+    },
+    {
+     "en": "it",
+     "vi": "nó"
+    },
+    {
+     "en": "see",
+     "vi": "thấy"
+    },
+    {
+     "en": "read",
+     "vi": "đọc"
+    },
+    {
+     "en": "clean",
+     "vi": "làm sạch"
+    },
+    {
+     "en": "keep",
+     "vi": "giữ"
+    },
+    {
+     "en": "begin",
+     "vi": "bắt đầu"
+    },
+    {
+     "en": "minute",
+     "vi": "phút"
+    },
+    {
+     "en": "back",
+     "vi": "phía sau"
+    },
+    {
+     "en": "black",
+     "vi": "đen"
+    },
+    {
+     "en": "bad",
+     "vi": "xấu"
+    },
+    {
+     "en": "man",
+     "vi": "người đàn ông"
+    },
+    {
+     "en": "fast",
+     "vi": "nhanh"
+    },
+    {
+     "en": "lab",
+     "vi": "phòng xét nghiệm"
+    },
+    {
+     "en": "cap",
+     "vi": "nắp"
+    },
+    {
+     "en": "tray",
+     "vi": "khay"
+    },
+    {
+     "en": "bottle",
+     "vi": "chai"
+    },
+    {
+     "en": "empty",
+     "vi": "rỗng"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Please clean the probe.",
+     "vi": "Hãy làm sạch kim hút."
+    },
+    {
+     "en": "Keep the cap on the bottle.",
+     "vi": "Đậy nắp chai."
+    },
+    {
+     "en": "It takes ten minutes.",
+     "vi": "Mất mười phút."
+    }
+   ]
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Ôn tập tuần 1 + tự giới thiệu",
+   "goal": "Ghi âm 1 phút tự giới thiệu, nghe lại và tự chấm âm cuối.",
+   "sounds": [
+    {
+     "ipa": "Ôn cặp âm khó",
+     "tip": "Nghe từng cặp, nói lại, chú ý âm cuối và th.",
+     "pairs": [
+      [
+       "think",
+       "sink"
+      ],
+      [
+       "ship",
+       "sheep"
+      ],
+      [
+       "light",
+       "right"
+      ],
+      [
+       "eight",
+       "A"
+      ],
+      [
+       "bed",
+       "bad"
+      ]
+     ]
+    }
+   ],
+   "words": [
+    {
+     "en": "name",
+     "vi": "tên"
+    },
+    {
+     "en": "job",
+     "vi": "công việc"
+    },
+    {
+     "en": "company",
+     "vi": "công ty"
+    },
+    {
+     "en": "hospital",
+     "vi": "bệnh viện"
+    },
+    {
+     "en": "laboratory",
+     "vi": "phòng xét nghiệm"
+    },
+    {
+     "en": "engineer",
+     "vi": "kỹ sư"
+    },
+    {
+     "en": "technician",
+     "vi": "kỹ thuật viên"
+    },
+    {
+     "en": "customer",
+     "vi": "khách hàng"
+    },
+    {
+     "en": "year",
+     "vi": "năm"
+    },
+    {
+     "en": "from",
+     "vi": "đến từ"
+    }
+   ],
+   "sentences": [
+    {
+     "en": "My name is Leo.",
+     "vi": "Tôi tên là Leo."
+    },
+    {
+     "en": "I am from Vietnam.",
+     "vi": "Tôi đến từ Việt Nam."
+    },
+    {
+     "en": "I work with chemistry analyzers.",
+     "vi": "Tôi làm việc với máy hóa sinh."
+    },
+    {
+     "en": "I am learning English for my job.",
+     "vi": "Tôi học tiếng Anh cho công việc."
+    }
+   ]
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Phonics: magic e",
+   "goal": "a_e, i_e, o_e: make, time, note.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Take your time.",
+     "vi": "Cứ từ từ."
+    },
+    {
+     "en": "Please note the time.",
+     "vi": "Hãy ghi lại giờ."
+    }
+   ]
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Phonics: ee, ea, oo",
+   "goal": "Đọc đúng see, clean, food, book.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Please read the screen.",
+     "vi": "Hãy đọc màn hình."
+    },
+    {
+     "en": "I need a new tube.",
+     "vi": "Tôi cần ống mới."
+    }
+   ]
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Phonics: ch, sh, th, ph",
+   "goal": "Cụm phụ âm đọc thành một âm.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Check the photometer.",
+     "vi": "Kiểm tra quang kế."
+    },
+    {
+     "en": "Which one should I choose?",
+     "vi": "Tôi nên chọn cái nào?"
+    }
+   ]
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Đuôi -ed và -s",
+   "goal": "Ba cách đọc -ed: /t/ /d/ /ɪd/.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "The test is finished.",
+     "vi": "Xét nghiệm đã xong."
+    },
+    {
+     "en": "I loaded the samples.",
+     "vi": "Tôi đã nạp mẫu."
+    }
+   ]
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Trọng âm từ",
+   "goal": "ANalyzer, reAgent, calibRAtion.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "The analyzer is ready.",
+     "vi": "Máy đã sẵn sàng."
+    },
+    {
+     "en": "We need calibration today.",
+     "vi": "Hôm nay cần hiệu chuẩn."
+    }
+   ]
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Nối âm và ngữ điệu câu hỏi",
+   "goal": "check it out, turn it on; lên giọng ở câu yes/no.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Can I turn it on?",
+     "vi": "Tôi bật nó lên được không?"
+    },
+    {
+     "en": "Is it ready?",
+     "vi": "Nó sẵn sàng chưa?"
+    }
+   ]
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Ôn tập tuần 2",
+   "goal": "Đọc to đoạn ngắn về máy, ghi âm và so sánh với ngày 7.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "This analyzer runs chemistry tests.",
+     "vi": "Máy này chạy xét nghiệm hóa sinh."
+    }
+   ]
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Giới thiệu bản thân và vai trò",
+   "goal": "Nói tên, công việc, kinh nghiệm.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "I am a service engineer.",
+     "vi": "Tôi là kỹ sư dịch vụ."
+    },
+    {
+     "en": "I have worked here for two years.",
+     "vi": "Tôi làm ở đây hai năm."
+    }
+   ]
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Chào hỏi đồng nghiệp",
+   "goal": "Chào, hỏi thăm, kết thúc câu chuyện.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Nice to meet you.",
+     "vi": "Rất vui được gặp bạn."
+    },
+    {
+     "en": "See you after the break.",
+     "vi": "Gặp lại sau giờ nghỉ."
+    }
+   ]
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Nói chuyện giờ nghỉ",
+   "goal": "Hỏi về công việc, nơi ở, cuối tuần.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Where do you work?",
+     "vi": "Bạn làm ở đâu?"
+    },
+    {
+     "en": "How was your weekend?",
+     "vi": "Cuối tuần của bạn thế nào?"
+    }
+   ]
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Khi không hiểu",
+   "goal": "Xin nhắc lại, nói chậm, viết ra.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Sorry, I don't understand.",
+     "vi": "Xin lỗi, tôi không hiểu."
+    },
+    {
+     "en": "Could you write it down?",
+     "vi": "Bạn viết ra được không?"
+    }
+   ]
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Hỏi lịch và địa điểm",
+   "goal": "Giờ học, phòng học, giờ nghỉ.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "What time does the class start?",
+     "vi": "Mấy giờ lớp bắt đầu?"
+    },
+    {
+     "en": "Which room is it in?",
+     "vi": "Ở phòng nào?"
+    }
+   ]
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Báo cáo việc đang làm",
+   "goal": "Nói việc đã làm, đang làm, sẽ làm.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "I am running the QC now.",
+     "vi": "Tôi đang chạy QC."
+    },
+    {
+     "en": "I will call you when it is done.",
+     "vi": "Xong tôi sẽ gọi bạn."
+    }
+   ]
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Ôn tập tuần 3",
+   "goal": "Đóng vai một ngày làm việc từ đầu đến cuối.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Good morning, everyone.",
+     "vi": "Chào buổi sáng mọi người."
+    }
+   ]
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Cấu tạo máy",
+   "goal": "sample probe, reagent probe, cuvette, ISE unit.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Where is the ISE unit?",
+     "vi": "Bộ ISE ở đâu?"
+    },
+    {
+     "en": "What does the mixer do?",
+     "vi": "Bộ trộn làm gì?"
+    }
+   ]
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Khởi động và tắt máy",
+   "goal": "start-up, shutdown, daily check.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "What should I check before start-up?",
+     "vi": "Trước khi khởi động tôi cần kiểm tra gì?"
+    }
+   ]
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Mẫu bệnh phẩm",
+   "goal": "serum, plasma, rack, barcode, STAT, rerun.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "How do I load a STAT sample?",
+     "vi": "Nạp mẫu cấp cứu thế nào?"
+    }
+   ]
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Hóa chất",
+   "goal": "reagent, lot number, expiry date, onboard stability.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "How long is the reagent stable onboard?",
+     "vi": "Hóa chất ổn định trên máy bao lâu?"
+    }
+   ]
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Hiệu chuẩn và QC",
+   "goal": "calibrator, control level, out of range.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "What do I do if the QC is out of range?",
+     "vi": "QC ngoài giới hạn thì làm gì?"
+    }
+   ]
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Bảo trì",
+   "goal": "daily, weekly, monthly maintenance; clean the probe.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "How often do we clean the probes?",
+     "vi": "Bao lâu thì vệ sinh kim hút?"
+    }
+   ]
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Lỗi và cảnh báo",
+   "goal": "alarm, error code, flag, clot, bubble.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "What does this flag mean?",
+     "vi": "Cờ cảnh báo này nghĩa là gì?"
+    }
+   ]
+  },
+  {
+   "day": 29,
+   "week": 4,
+   "title": "Kết quả và đặt câu hỏi trong lớp",
+   "goal": "result, reference range, send to LIS; hỏi giảng viên.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "Can you explain this result again, please?",
+     "vi": "Bạn giải thích lại kết quả này được không?"
+    }
+   ]
+  },
+  {
+   "day": 30,
+   "week": 4,
+   "title": "Buổi training thử",
+   "goal": "Tự giới thiệu, nghe giảng, hỏi 3 câu, mô tả quy trình chạy mẫu 1 phút.",
+   "sounds": [],
+   "words": [],
+   "sentences": [
+    {
+     "en": "First, I check the reagents. Then I load the samples.",
+     "vi": "Đầu tiên tôi kiểm tra hóa chất. Sau đó tôi nạp mẫu."
+    }
+   ]
+  }
+ ]
+}
