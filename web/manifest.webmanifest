@@ -1,0 +1,12 @@
+{
+  "name": "Tiếng Anh 30 ngày",
+  "short_name": "Tiếng Anh 30",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#58CC02",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

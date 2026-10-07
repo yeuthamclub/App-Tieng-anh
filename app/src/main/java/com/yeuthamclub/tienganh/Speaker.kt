@@ -23,5 +23,9 @@ class Speaker(context: Context) : TextToSpeech.OnInitListener {
         tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, text)
     }
 
+    fun stop() {
+        tts.stop()
+    }
+
     fun shutdown() = tts.shutdown()
 }

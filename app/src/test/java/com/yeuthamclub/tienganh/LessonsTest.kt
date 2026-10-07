@@ -29,4 +29,14 @@ class LessonsTest {
         assertEquals(3, Progress.currentDay(setOf(1, 2, 4), 30))
         assertEquals(30, Progress.currentDay((1..30).toSet(), 30))
     }
+
+    @Test
+    fun streakGrowsOnConsecutiveDaysAndResetsAfterAGap() {
+        assertEquals(1, Progress.nextStreak(0, Long.MIN_VALUE / 2, 100))
+        assertEquals(4, Progress.nextStreak(3, 99, 100))
+        assertEquals(3, Progress.nextStreak(3, 100, 100))
+        assertEquals(1, Progress.nextStreak(3, 97, 100))
+        assertEquals(3, Progress.visibleStreak(3, 99, 100))
+        assertEquals(0, Progress.visibleStreak(3, 98, 100))
+    }
 }
